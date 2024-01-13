@@ -1,7 +1,7 @@
 {
   "components": {
     "workshopcamp.near/widget/HelloWorld": {
-      "code": "\n\n\nreturn <div>Hello World2</div>;\n"
+      "code": "return <div>Hello World3</div>;\n"
     }
   }
 }
